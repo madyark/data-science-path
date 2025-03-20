@@ -1,0 +1,13 @@
+jupyter
+pandas
+polars
+dotenv
+numpy
+tensorflow
+keras
+nltk
+pandas
+ipython
+scikit-learn
+scipy
+matplotlib
