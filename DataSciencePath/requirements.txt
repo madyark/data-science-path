@@ -11,3 +11,7 @@ ipython
 scikit-learn
 scipy
 matplotlib
+anywidget
+notebook
+plotly
+kaleido 
